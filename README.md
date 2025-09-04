@@ -1,7 +1,7 @@
 
 # Hi, I'm Dhruv Khare 👋
 
-Computer Science student and open-source contributor. I build practical solutions — from C assignments to full projects for Android/web — and I enjoy improving apps, automating workflows and learning new tools every day.
+Computer Science student and open-source contributor. I build practical solutions — from C assignments to full projects for web — and I enjoy improving , automating workflows and learning new tools every day.
 
 - 📫 Email: dhruvkhare536@gmail.com
 - 🔗 LinkedIn: https://www.linkedin.com/in/dhruv-khare-464a04296
@@ -27,7 +27,7 @@ I work on projects that solve real problems — offline-first mobile features, a
 
 ---
 
-## Selected projects
+## 📂 Featured Projects
 
 Below are a few repositories I’ve been working on — click to explore:
 
@@ -37,16 +37,15 @@ Below are a few repositories I’ve been working on — click to explore:
 - fibepe-Admin — Admin dashboard / web project  
   https://github.com/Dhruv-Khare/fibepe-Admin
 
-- FibePeProjectOfflineData — Offline data / mobile project for FibePe  
+- FibePeProjectOfflineData — Offline data / Freelance project for FibePe  
   https://github.com/Dhruv-Khare/FibePeProjectOfflineData
 
-- Project-Omega — Personal / team project (core features & experiments)  
-  https://github.com/Dhruv-Khare/Project-Omega
-
-- ravikhare1996/Project-Omega — related fork / collaboration  
-  https://github.com/ravikhare1996/Project-Omega
+- MERN Chatt App - Personal Project
+  https://github.com/Dhruv-Khare/ChatAPP-Project
 
 ---
+## 📈 GitHub Stats
+ ![Dhruv-Khare's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dhruv-Khare&show_icons=true&hide_title=true)
 
 ## How I work
 - I prefer small iterative improvements and frequent commits.
