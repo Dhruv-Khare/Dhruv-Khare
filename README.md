@@ -18,11 +18,11 @@ I work on projects that solve real problems — offline-first mobile features, a
 ---
 
 ## Key technologies (from my projects)
-- C (systems / coursework)
-- Java / Android (mobile apps)
+- C, C++, Java
 - JavaScript / Web (dashboards & admin)
 - Git & GitHub (version control & collaboration)
-
+- Postman( API Testing )
+- MERN stack (Mongo/ Express/ React/ Node) 
 > If you'd like the exact tech-stack for any project, tell me which project and I’ll add a short tech summary.
 
 ---
