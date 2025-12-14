@@ -7,7 +7,6 @@ Computer Science student and open-source contributor. I build practical solution
 - 🔗 LinkedIn: https://www.linkedin.com/in/dhruv-khare-464a04296
 - 🐙 GitHub: https://github.com/Dhruv-Khare
 - 🧠 LeetCode: https://leetcode.com/u/dhruvkhare536/
-- 📄 Resume: [Resume.pdf](./Resume.pdf)
 
 ---
 
