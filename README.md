@@ -67,8 +67,13 @@ Workflow automation project for interview scheduling using conversational inputs
 - Participated in hackathon-style and project-based builds (including travel-tech and AI orchestration projects)
 
 ---
-
 ## GitHub Statistics
+
+<p align="center">
+  <img src="./profile/stats.svg" height="180" />
+  <img src="./profile/top-langs.svg" height="180" />
+</p>
+<!-- ## GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Dhruv-Khare&show_icons=true&hide_border=true&rank_icon=github" height="180" />
@@ -79,7 +84,7 @@ Workflow automation project for interview scheduling using conversational inputs
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Dhruv-Khare&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=86400" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruv-Khare&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400" height="180" />
-</p>
+</p> -->
 
 ---
 
