@@ -69,7 +69,7 @@ Workflow automation project for interview scheduling using conversational inputs
 ---
 
 ## GitHub Statistics
-![Dhruv Khare GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dhruv-Khare&show_icons=true&hide_border=true&rank_icon=github)
+![Dhruv Khare GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dhruv-khare&show_icons=true&hide_border=true&rank_icon=github)
 
 ---
 
